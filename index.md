@@ -28,21 +28,16 @@ An Engineering Manager (EM) is a leadership role that bridges the technical and 
 <div class="code-example" markdown="1">
 
 **Role Definition**
-- [Job Description]({% link docs/role-definition/job-description.md %})
-- [Core Responsibilities]({% link docs/role-definition/responsibilities.md %})
-- [Skills & Competencies]({% link docs/role-definition/skills.md %})
+- [Engineering Manager (Entry Level)]({% link docs/role-definition/entry-level.md %})
+- [Engineering Manager]({% link docs/role-definition/engineering-manager.md %})
+- [Senior Engineering Manager]({% link docs/role-definition/senior-engineering-manager.md %})
+- [Principal/Director]({% link docs/role-definition/principal-director.md %})
 
-**Career Levels**
-- [Entry Level (EM1)]({% link docs/levels/em1.md %})
-- [Mid Level (EM2)]({% link docs/levels/em2.md %})
-- [Senior Level (EM3)]({% link docs/levels/em3.md %})
-- [Principal Level (EM4+)]({% link docs/levels/em4-plus.md %})
-
-**Management Areas**
-- [People Management]({% link docs/management/people.md %})
-- [Technical Leadership]({% link docs/management/technical.md %})
-- [Project Management]({% link docs/management/projects.md %})
-- [Strategy & Planning]({% link docs/management/strategy.md %})
+**Competencies**
+- [People Management]({% link docs/competencies/people-management/index.md %})
+- [Technical Leadership]({% link docs/competencies/technical-leadership/index.md %})
+- [Business & Strategy]({% link docs/competencies/business-strategy/index.md %})
+- [Personal Effectiveness]({% link docs/competencies/personal-effectiveness/index.md %})
 
 </div>
 
@@ -57,10 +52,6 @@ This handbook provides a structured approach to understanding the Engineering Ma
 
 ---
 
-## Contributing
-
-See [how to contribute]({% link docs/contributing.md %}) to improve this handbook.
-
-### License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

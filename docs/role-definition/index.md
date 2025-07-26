@@ -8,12 +8,32 @@ permalink: /docs/role-definition
 
 # Role Definition
 
-Understanding the Engineering Manager role, including core responsibilities, required skills, and job expectations.
+Complete role definitions for Engineering Manager positions at all levels, from entry-level to director positions.
 
-This section provides a comprehensive overview of what it means to be an Engineering Manager, covering:
+## Engineering Manager Levels
 
-- **Job Description**: Complete role overview with qualifications and success metrics
-- **Core Responsibilities**: Detailed breakdown of people, technical, and strategic responsibilities  
-- **Skills & Competencies**: Technical, leadership, and management competencies with development frameworks
+### **[Engineering Manager (Entry Level)]({% link docs/role-definition/entry-level.md %})**
+First-time managers transitioning from individual contributor roles
+- 3-5 direct reports, single team focus
+- 20-40% technical involvement
+- Learning management fundamentals
 
-Use these resources to understand role expectations, assess current capabilities, and plan professional development.
+### **[Engineering Manager]({% link docs/role-definition/engineering-manager.md %})**
+Experienced managers with proven competency in core management skills
+- 5-8 direct reports, multi-team coordination
+- 10-20% technical involvement
+- Strategic contribution and cross-functional collaboration
+
+### **[Senior Engineering Manager]({% link docs/role-definition/senior-engineering-manager.md %})**
+Department-level leaders managing other managers and driving organizational initiatives
+- 8-12 engineers or 2-3 managers
+- 5-15% strategic technical work
+- Organizational leadership and culture building
+
+### **[Principal/Director]({% link docs/role-definition/principal-director.md %})**
+Executive-level engineering leaders setting organizational strategy and vision
+- 12+ engineers or 3+ managers
+- 0-10% strategic architecture work
+- Business partnership and organizational transformation
+
+Each role definition includes complete job descriptions, responsibilities, success metrics, common challenges, and development focus areas specific to that level.

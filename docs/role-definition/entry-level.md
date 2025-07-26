@@ -1,11 +1,11 @@
 ---
 layout: default
-title: EM1 - Engineering Manager I
-parent: Career Levels
-nav_order: 1
+title: Engineering Manager (Entry Level)
+parent: Role Definition
+nav_order: 4
 ---
 
-# EM1 - Engineering Manager I
+# Engineering Manager (Entry Level)
 {: .no_toc }
 
 ## Table of contents
@@ -18,62 +18,58 @@ nav_order: 1
 
 ## Overview
 
-The Engineering Manager I is typically a first-time people manager, transitioning from an individual contributor role. They manage a small team while learning fundamental management skills and maintaining technical involvement.
+The Entry Level Engineering Manager is typically a first-time people manager, transitioning from an individual contributor role. They manage a small team while learning fundamental management skills and maintaining significant technical involvement.
 
-## Key Characteristics
+## Job Description
 
+### Key Characteristics
 - **Experience**: 0-2 years of management experience
 - **Team Size**: 3-5 direct reports
 - **Scope**: Single team or product area
-- **Focus**: Learning management fundamentals while maintaining technical contributions
+- **Technical Involvement**: 20-40% hands-on coding
+- **Focus**: Learning management fundamentals while contributing technically
 
-## Core Expectations
+### Core Responsibilities
 
-### People Management
-- Conduct regular 1:1 meetings with all direct reports
+#### People Management
+- Conduct weekly 1:1 meetings with all direct reports
 - Provide timely and constructive feedback
 - Support team members' professional development
 - Handle basic performance management issues
 - Foster a positive team environment
 
-### Technical Leadership
-- Remain technically hands-on (20-40% coding)
+#### Technical Leadership
+- Remain technically hands-on with meaningful code contributions
 - Participate in code reviews and technical discussions
 - Guide technical decisions for the team
 - Ensure code quality and best practices
 - Mentor junior developers on technical skills
 
-### Project Management
+#### Project Management
 - Plan and track team deliverables
 - Communicate progress to stakeholders
 - Identify and escalate blockers
 - Coordinate with other teams as needed
 - Manage sprint planning and retrospectives
 
-### Communication & Collaboration
-- Provide regular updates to senior management
-- Collaborate effectively with Product and Design
-- Represent team interests in cross-functional meetings
-- Document decisions and share learnings
+### Success Metrics
 
-## Success Metrics
-
-### Team Performance
+#### Team Performance
 - **Delivery**: Consistent delivery of committed work within timelines
 - **Quality**: Low defect rates and high code quality standards
 - **Velocity**: Stable or improving team velocity over time
 
-### Team Development
+#### Team Development
 - **Retention**: High team retention and low voluntary turnover
 - **Growth**: Evidence of team member skill development and career progression
 - **Satisfaction**: Positive team feedback in surveys and 1:1s
 
-### Personal Development
+#### Personal Development
 - **Management Skills**: Demonstrable improvement in core management competencies
 - **Technical Contribution**: Meaningful technical contributions alongside management duties
 - **Stakeholder Feedback**: Positive feedback from cross-functional partners
 
-## Common Challenges
+## Common Challenges & Solutions
 
 ### Time Management
 - **Challenge**: Balancing management duties with technical work
@@ -105,54 +101,24 @@ The Engineering Manager I is typically a first-time people manager, transitionin
 - Stakeholder management
 - Performance management frameworks
 
-### Could Develop
-- Technical strategy contribution
-- Hiring and interviewing skills
-- Budget and resource planning
-- Organizational influence
-
-## Promotion to EM2
-
-### Ready When You Can:
-- Consistently manage current team size effectively
-- Demonstrate technical leadership beyond your immediate team
-- Handle complex people management situations independently
-- Contribute meaningfully to technical and team strategy
-- Successfully onboard and develop new team members
-- Show capability to handle increased scope and responsibility
-
-### Typical Timeline
-Most EMs spend 18-36 months at the EM1 level, depending on:
-- Prior leadership experience
-- Team complexity and challenges
-- Organization growth and opportunities
-- Individual development pace
-
----
-
-## Resources for EM1s
-
-### Recommended Reading
-- "The Manager's Path" by Camille Fournier (Chapters 1-4)
-- "Radical Candor" by Kim Scott
-- "The First 90 Days" by Michael Watkins
-
-### Training & Development
-- Management fundamentals training
-- Effective 1:1 meetings workshop
-- Feedback and performance management training
-- Technical leadership programs
-
-### Internal Support
-- Regular check-ins with your manager
-- Peer mentoring with other new managers
-- Skip-level meetings for additional perspective
-- Management training cohorts
+### Growth Path
+Most Entry Level EMs spend 18-36 months at this level before promotion, focusing on:
+- Consistently managing current team size effectively
+- Demonstrating technical leadership beyond immediate team
+- Handling complex people management situations independently
+- Contributing meaningfully to technical and team strategy
 
 ---
 
 ## Related Resources
 
-- [EM2 Level Expectations]({% link docs/levels/em2.md %})
-- [People Management Deep Dive]({% link docs/management/people.md %})
-- [Technical Leadership Guide]({% link docs/management/technical.md %})
+### Core Competencies
+- [People Management]({% link docs/competencies/people-management/index.md %})
+- [Technical Leadership]({% link docs/competencies/technical-leadership/index.md %})
+
+### Development Resources
+- [1:1 Meetings Guide]({% link docs/competencies/people-management/one-on-ones.md %})
+- [Time Management Strategies]({% link docs/competencies/personal-effectiveness/time-management.md %})
+
+### Next Level
+- [Engineering Manager]({% link docs/role-definition/engineering-manager.md %})
